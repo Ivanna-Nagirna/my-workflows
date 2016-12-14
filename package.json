@@ -1,0 +1,10 @@
+{
+  "name": "my-workflows",
+  "version": "0.0.1",
+  "description": "It's my project with using prepros",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Ivanna Nagirna"
+}
