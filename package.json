@@ -4,11 +4,12 @@
   "description": "It's my project with using prepros",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/Ivanna-Nagirna/my-workflows.git"
   },
   "author": "Ivanna Nagirna",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-util": "^3.0.7"
+    "gulp-util": "^3.0.7",
+    "gulp-coffee": "^2.3.3"
   }
 }
