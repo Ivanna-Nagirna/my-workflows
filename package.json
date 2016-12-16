@@ -9,7 +9,8 @@
   "author": "Ivanna Nagirna",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-util": "^3.0.7",
-    "gulp-coffee": "^2.3.3"
+    "gulp-coffee": "^2.3.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-util": "^3.0.7"
   }
 }
